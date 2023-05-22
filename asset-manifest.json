@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/khabrii-v1/static/css/main.0d0f9497.css",
-    "main.js": "/khabrii-v1/static/js/main.8ffd1c7d.js",
-    "static/js/787.5fbe6313.chunk.js": "/khabrii-v1/static/js/787.5fbe6313.chunk.js",
-    "static/media/loading.gif": "/khabrii-v1/static/media/loading.707b79309581ce09ed58.gif",
-    "static/media/logof.webp": "/khabrii-v1/static/media/logof.1101c5076cf791d1c745.webp",
-    "index.html": "/khabrii-v1/index.html",
-    "main.0d0f9497.css.map": "/khabrii-v1/static/css/main.0d0f9497.css.map",
-    "main.8ffd1c7d.js.map": "/khabrii-v1/static/js/main.8ffd1c7d.js.map",
-    "787.5fbe6313.chunk.js.map": "/khabrii-v1/static/js/787.5fbe6313.chunk.js.map"
+    "main.css": "/khabrii-v3/static/css/main.0d0f9497.css",
+    "main.js": "/khabrii-v3/static/js/main.c4bc9a84.js",
+    "static/js/787.5fbe6313.chunk.js": "/khabrii-v3/static/js/787.5fbe6313.chunk.js",
+    "static/media/loading.gif": "/khabrii-v3/static/media/loading.707b79309581ce09ed58.gif",
+    "static/media/logof.webp": "/khabrii-v3/static/media/logof.1101c5076cf791d1c745.webp",
+    "index.html": "/khabrii-v3/index.html",
+    "main.0d0f9497.css.map": "/khabrii-v3/static/css/main.0d0f9497.css.map",
+    "main.c4bc9a84.js.map": "/khabrii-v3/static/js/main.c4bc9a84.js.map",
+    "787.5fbe6313.chunk.js.map": "/khabrii-v3/static/js/787.5fbe6313.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d0f9497.css",
-    "static/js/main.8ffd1c7d.js"
+    "static/js/main.c4bc9a84.js"
   ]
 }
